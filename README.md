@@ -21,7 +21,7 @@ And alter jsreport configuration
     // the rest is optional
     "topic": "jsreport",
     "subscrption": "<host id>",
-    "region": "eu-west-1"
+    "region": "us-east-1"
   }
 },	
 ```
