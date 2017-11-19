@@ -18,6 +18,10 @@ And alter jsreport configuration
     "name": "aws-sns",
     "accessKeyId": "...",
     "secretAccessKey": "..."
+    // the rest is optional
+    "topic": "jsreport",
+    "subscrption": "<host id>",
+    "region": "eu-west-1"
   }
 },	
 ```
