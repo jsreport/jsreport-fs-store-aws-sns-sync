@@ -1,6 +1,6 @@
 {
   "name": "jsreport-fs-store-aws-sns-sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Synchronize jsreport fs store between multiple instances using aws sns",
   "scripts": {
     "test": "standard"
