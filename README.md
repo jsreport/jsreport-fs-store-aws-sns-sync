@@ -7,13 +7,13 @@
 
 ## Installation
 
-> npm install jsreport-fs-store@next    
+> npm install jsreport-fs-store    
 > npm install jsreport-fs-store-aws-sns-sync
 
 Create an IAM user with permissions to SNS and SQS and copy the access key and secret access key. Then alter the jsreport configuration:
 ```js
-"connectionString": { 
-  "name": "fs2",
+"store": { 
+  "provider": "fs",
   "sync": {
     "name": "aws-sns",
     "accessKeyId": "...",
