@@ -24,7 +24,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "2.153.0"
+    "aws-sdk": "2.153.0",
+    "jsreport-fs-store": "2.4.1"
   },
   "author": "Jan Blaha",
   "devDependencies": {
