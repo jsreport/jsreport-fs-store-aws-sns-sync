@@ -16,9 +16,9 @@ Create an IAM user with permissions to SNS and SQS and copy the access key and s
   "provider": "fs",
   "sync": {
     "name": "aws-sns",
+    // the rest is optional
     "accessKeyId": "...",
     "secretAccessKey": "..."
-    // the rest is optional
     "topic": "jsreport",
     "subscription": "<host id>",
     "region": "us-east-1"
