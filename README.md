@@ -1,3 +1,6 @@
+⚠️ This extension is deprecated and is compatible only with the jsreport v2
+--
+
 # jsreport-fs-store-aws-sns-sync
 [![NPM Version](http://img.shields.io/npm/v/jsreport-fs-store-aws-sns-sync.svg?style=flat-square)](https://npmjs.com/package/jsreport-fs-store-aws-sns-sync)
 [![Build Status](https://travis-ci.org/jsreport/jsreport-fs-store-aws-sns-sync.png?branch=master)](https://travis-ci.org/jsreport/jsreport-fs-store-aws-sns-sync)
